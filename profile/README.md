@@ -1,5 +1,6 @@
-[![Frabit](https://raw.githubusercontent.com/frabits/frabit/main/docs/images/dblist.png))](https://frabit.tech)  
-
 <div align="center">
-<h1>frabit@The next-gen database automatic platform</h1>
+  <a href="https://frabit.tech" target="_blank">
+      <img width="1332" alt="frabit_banne" src="https://github.com/frabits/.github/assets/38288045/7b068d15-7de4-490f-84dd-7a97ce4d45c4">
+  </a>
 </div>
+
